@@ -1,0 +1,1286 @@
+[
+  {
+    "id": "bolsa-alto-vacio-transparente",
+    "name": "TRANSPARENTE",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "bolsa",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/TRANSP-PESCADO-600x600.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/bolsa/bolsa-alto-vacio-transparente/"
+  },
+  {
+    "id": "bolsa-para-alto-vacio-negro",
+    "name": "FONDO NEGRO",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "bolsa",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/FONDO-NEGRO-600x600.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/bolsa/bolsa-para-alto-vacio-negro/"
+  },
+  {
+    "id": "bolsa-para-alto-vacio-dorada",
+    "name": "FONDO DORADO",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "bolsa",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/FONDO-DORADO-600x600.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/bolsa/bolsa-para-alto-vacio-dorada/"
+  },
+  {
+    "id": "fondo-plateado",
+    "name": "FONDO PLATEADO",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "bolsa",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/FONDO-PLATEADO-600x600.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/bolsa/fondo-plateado/"
+  },
+  {
+    "id": "fondo-blanco",
+    "name": "FONDO BLANCO",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "bolsa",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/FONDO-BLANCO-600x600.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/bolsa/fondo-blanco/"
+  },
+  {
+    "id": "termoencogible",
+    "name": "TERMOENCOGIBLE",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "bolsa",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/TERMOENCOGIBLE-2-600x600.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/bolsa/termoencogible/"
+  },
+  {
+    "id": "bolsa-gofrada",
+    "name": "BOLSA GOFRADA",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "gofrados",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/BOLSA-GOFRADA-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/gofrados/bolsa-gofrada/"
+  },
+  {
+    "id": "rollo-gofrado",
+    "name": "ROLLO TRANSPARENTE",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "gofrados",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/GOFRADO-TRANSPARENTE-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/gofrados/rollo-gofrado/"
+  },
+  {
+    "id": "rollo-negro",
+    "name": "ROLLO NEGRO",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "gofrados",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/GOFRADO-NEGRO-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/gofrados/rollo-negro/"
+  },
+  {
+    "id": "transparente",
+    "name": "TRANSPARENTE",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "stand-up",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/TRANSPARENTE-1-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/stand-up/transparente/"
+  },
+  {
+    "id": "kraft",
+    "name": "KRAFT",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "stand-up",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/KRAFT-4-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/stand-up/kraft/"
+  },
+  {
+    "id": "kraft-con-ventana",
+    "name": "KRAFT CON VENTANA",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "stand-up",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/KRAFT-V-1-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/stand-up/kraft-con-ventana/"
+  },
+  {
+    "id": "blanca",
+    "name": "BLANCA",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "stand-up",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/BLANCA-5-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/stand-up/blanca/"
+  },
+  {
+    "id": "negra",
+    "name": "NEGRA",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "stand-up",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/NEG-2-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/stand-up/negra/"
+  },
+  {
+    "id": "transparente-fondo-plateado",
+    "name": "TRANSP. / PLATEADA",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "stand-up",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/PLATA-TRANSP-1-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/stand-up/transparente-fondo-plateado/"
+  },
+  {
+    "id": "plateada",
+    "name": "PLATEADA",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "stand-up",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/PLATEADO-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/stand-up/plateada/"
+  },
+  {
+    "id": "dorada",
+    "name": "DORADA",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "stand-up",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/DORADA-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/stand-up/dorada/"
+  },
+  {
+    "id": "verde",
+    "name": "VERDE",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "stand-up",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/VERDE.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/stand-up/verde/"
+  },
+  {
+    "id": "roja",
+    "name": "ROJA",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "stand-up",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/ROJA-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/stand-up/roja/"
+  },
+  {
+    "id": "empacadora-casera",
+    "name": "EMPACADORA CASERA",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "empacadoras",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2024/07/EMPACADORA-CASERA-600x600.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/empacadoras/empacadora-casera/"
+  },
+  {
+    "id": "emplayadora-electrica",
+    "name": "EMPLAYADORA ELECTRICA",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "empacadoras",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2024/06/EMPLAYADORA-ELECTRICA-600x600.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/empacadoras/emplayadora-electrica/"
+  },
+  {
+    "id": "mesa-vt-260",
+    "name": "MESA VT-260",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "empacadoras",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/4.-MESA-600x600.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/empacadoras/mesa-vt-260/"
+  },
+  {
+    "id": "mesa-vt-400",
+    "name": "MESA VT-400",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "empacadoras",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/5.-MESA-1-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/empacadoras/mesa-vt-400/"
+  },
+  {
+    "id": "gabinete-vs-400",
+    "name": "GABINETE VS-400",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "empacadoras",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/2.-GABINETE-2-600x600.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/empacadoras/gabinete-vs-400/"
+  },
+  {
+    "id": "doble-campana-vs-400",
+    "name": "DOBLE CAMPANA VS-400",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "empacadoras",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/1.-DOBLE-CAMPANA-600x600.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/empacadoras/doble-campana-vs-400/"
+  },
+  {
+    "id": "doble-campana-vs-600",
+    "name": "DOBLE CAMPANA VS-600",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "empacadoras",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/600-dc-1-600x600.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/empacadoras/doble-campana-vs-600/"
+  },
+  {
+    "id": "doble-campana-vs-800",
+    "name": "DOBLE CAMPANA VS-800",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "empacadoras",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/800-dc-1-600x600.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/empacadoras/doble-campana-vs-800/"
+  },
+  {
+    "id": "valvula-electromagnetica",
+    "name": "VÁLVULA ELECTROMAGNÉTICA",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "refacciones",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2023/03/VALVULA-ELECTROMAGNETICA-600x600.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/refacciones/valvula-electromagnetica/"
+  },
+  {
+    "id": "transformador",
+    "name": "TRANSFORMADOR",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "refacciones",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2023/03/TRANSFORMADOR-600x600.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/refacciones/transformador/"
+  },
+  {
+    "id": "sello-hermetico",
+    "name": "SELLO HERMETICO",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "refacciones",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2023/03/SELLO-HERMETICO-600x600.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/refacciones/sello-hermetico/"
+  },
+  {
+    "id": "resistencia-de-ni-crome",
+    "name": "RESISTENCIA DE NI-CROME",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "refacciones",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2023/03/RESISTENCIA-600x600.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/refacciones/resistencia-de-ni-crome/"
+  },
+  {
+    "id": "relay-temporizador",
+    "name": "RELAY TEMPORIZADOR",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "refacciones",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2023/03/RELAY-TEMPORIZADOR-1-600x600.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/refacciones/relay-temporizador/"
+  },
+  {
+    "id": "protector-de-voltaje",
+    "name": "PROTECTOR DE VOLTAJE",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "refacciones",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2023/03/PROTECTOR-DE-VOLTAJE-600x600.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/refacciones/protector-de-voltaje/"
+  },
+  {
+    "id": "juego-de-letras",
+    "name": "JUEGO DE LETRAS",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "refacciones",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2023/03/JUEGO-DE-LETRAS-600x600.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/refacciones/juego-de-letras/"
+  },
+  {
+    "id": "filtro",
+    "name": "FILTRO",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "refacciones",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2023/03/FILTRO-600x600.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/refacciones/filtro/"
+  },
+  {
+    "id": "cubierta-de-acrilico",
+    "name": "CUBIERTA DE ACRILICO",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "refacciones",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2023/03/CUBIERTA-DE-ACRILICO-600x600.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/refacciones/cubierta-de-acrilico/"
+  },
+  {
+    "id": "contra-barra-de-silica",
+    "name": "CONTRA-BARRA DE SÍLICA",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "refacciones",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2023/03/CONTRABARRA-DE-SILICA-600x600.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/refacciones/contra-barra-de-silica/"
+  },
+  {
+    "id": "contactor",
+    "name": "CONTACTOR",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "refacciones",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2023/03/CONTACTOR-600x600.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/refacciones/contactor/"
+  },
+  {
+    "id": "bomba-al-vacio",
+    "name": "BOMBA AL VACIO",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "refacciones",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2023/03/BOMBA-AL-VACIO-600x600.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/refacciones/bomba-al-vacio/"
+  },
+  {
+    "id": "empacadora-casera",
+    "name": "EMPACADORA CASERA",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "vitafilm",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2024/07/EMPACADORA-CASERA-600x600.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/empacadoras/empacadora-casera/"
+  },
+  {
+    "id": "emplayadora-electrica",
+    "name": "EMPLAYADORA ELECTRICA",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "vitafilm",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2024/06/EMPLAYADORA-ELECTRICA-600x600.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/empacadoras/emplayadora-electrica/"
+  },
+  {
+    "id": "vitafilm",
+    "name": "VITAFILM",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "vitafilm",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/VITAFILM-1-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/vitafilm/vitafilm/"
+  },
+  {
+    "id": "bolsa-papel-kraft",
+    "name": "BOLSA PAPEL KRAFT",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "varios",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/BOLSA-PAPEL-600x600.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/varios/bolsa-papel-kraft/"
+  },
+  {
+    "id": "tela-cubre-hueso",
+    "name": "TELA CUBRE HUESO",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "varios",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/TELA-CUBRE-HUESO-600x600.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/varios/tela-cubre-hueso/"
+  },
+  {
+    "id": "laminas-de-polipapel",
+    "name": "LAMINAS DE POLIPAPEL",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "varios",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/LAMINAS-POLIPAPEL-2-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/varios/laminas-de-polipapel/"
+  },
+  {
+    "id": "bolsa-con-zipper",
+    "name": "BOLSA CON ZIPPER",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "varios",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/bolsa-zipper-SANDWICH-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/varios/bolsa-con-zipper/"
+  },
+  {
+    "id": "bolsa-impresa",
+    "name": "BOLSA IMPRESA",
+    "description": "",
+    "category": "alimenticio",
+    "subcategory": "especialidades",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2023/03/mock-up-vertical-logotipo-nuevo-600x576.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/especialidades/bolsa-impresa/"
+  },
+  {
+    "id": "encintadora-manual",
+    "name": "ENCINTADORA MANUAL",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "cintas",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/DESPACHADOR-2-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/cintas/encintadora-manual/"
+  },
+  {
+    "id": "t-182-2",
+    "name": "T-182 HOT MELT",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "cintas",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/T-182-1.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/cintas/t-182-2/"
+  },
+  {
+    "id": "t-182",
+    "name": "T-278 ACRILICA",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "cintas",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/T-278-5-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/cintas/t-182/"
+  },
+  {
+    "id": "hot-melt-t-179",
+    "name": "T-179 HOT MELT",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "cintas",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/T179-48X150-TUCK-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/cintas/hot-melt-t-179/"
+  },
+  {
+    "id": "t-500",
+    "name": "T-500 HOT MELT",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "cintas",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/CANELA-NAV-1-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/cintas/t-500/"
+  },
+  {
+    "id": "95",
+    "name": "95 EMPAQUE",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "cintas",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/CINTA-DE-EMPAQUE-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/cintas/95/"
+  },
+  {
+    "id": "ofiland",
+    "name": "OFILAND",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "cintas",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/OFFILAND-2-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/cintas/ofiland/"
+  },
+  {
+    "id": "gorila-kraft",
+    "name": "GORILA KRAFT",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "cintas",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/CINTA-GORILA-1-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/cintas/gorila-kraft/"
+  },
+  {
+    "id": "kraft-8534",
+    "name": "8534 PAPEL KRAFT",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "cintas",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/NAV-CAFE-KRAFT-1-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/cintas/kraft-8534/"
+  },
+  {
+    "id": "177-doble-capa",
+    "name": "177 DOBLE CAPA",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "cintas",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/DOBLE-CAPA-FOAM-2-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/cintas/177-doble-capa/"
+  },
+  {
+    "id": "fibra-de-vidrio-199",
+    "name": "199 FIBRA DE VIDRIO",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "cintas",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/FIBRA-DE-VIDRIO-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/cintas/fibra-de-vidrio-199/"
+  },
+  {
+    "id": "ducto180",
+    "name": "180 DUCTO",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "cintas",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/GRIS-30M-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/cintas/ducto180/"
+  },
+  {
+    "id": "93-t",
+    "name": "93 T DUCTO",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "cintas",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/GRIS-M-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/cintas/93-t/"
+  },
+  {
+    "id": "750-marcaje",
+    "name": "750 MARCAJE",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "cintas",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/MARCAJE-4-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/cintas/750-marcaje/"
+  },
+  {
+    "id": "marcaje-pvc-343",
+    "name": "343 MARCAJE PVC",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "cintas",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/MARCAJE-AMA-NEG-1-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/cintas/marcaje-pvc-343/"
+  },
+  {
+    "id": "masking-170",
+    "name": "170 DOBLE CAPA",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "cintas",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/NAV-170-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/cintas/masking-170/"
+  },
+  {
+    "id": "masking-140",
+    "name": "140 MASKIN TAPE",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "cintas",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/PINTOR-1-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/cintas/masking-140/"
+  },
+  {
+    "id": "masking-125",
+    "name": "125 MASKING TAPE",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "cintas",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/MASKING-125-3-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/cintas/masking-125/"
+  },
+  {
+    "id": "cinta-masking-tape-110",
+    "name": "110 MASKING TAPE",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "cintas",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/11/MASKING-TAPE-18X50-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/cintas/cinta-masking-tape-110/"
+  },
+  {
+    "id": "masking-111",
+    "name": "111 MASKING TAPE",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "cintas",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/MASKING-TAPE-111-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/cintas/masking-111/"
+  },
+  {
+    "id": "265-fragil",
+    "name": "265 FRAGIL",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "cintas",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/FRAGIL-1-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/cintas/265-fragil/"
+  },
+  {
+    "id": "cinta-precaution-fragil-520",
+    "name": "520 PRECAUTION",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "cintas",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/PRECAUTION-1-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/cintas/cinta-precaution-fragil-520/"
+  },
+  {
+    "id": "emplaye-18",
+    "name": "PELICULA DE EMPLAYE",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "proteccion",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/Emplaye-post-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/proteccion/emplaye-18/"
+  },
+  {
+    "id": "polipack",
+    "name": "POLIPACK",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "proteccion",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/POLIPACK-BOBINAS-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/proteccion/polipack/"
+  },
+  {
+    "id": "poliburbuja",
+    "name": "BOBINA POLIBURBUJA",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "proteccion",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/burbuja-1-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/proteccion/poliburbuja/"
+  },
+  {
+    "id": "bobina-poliburbuja-copia",
+    "name": "BOLSA BURBUJA SENCILLA",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "proteccion",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2023/01/BOLSA-BURBUJA-SENCILLA-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/proteccion/bobina-poliburbuja-copia/"
+  },
+  {
+    "id": "bolsa-sencilla-burbuja-copia",
+    "name": "BOLSA BURBUJA CON SOLAPA Y ADHESIVO",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "proteccion",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2023/01/BOLSA-BURBUJA-CON-SOLAPA-Y-ADHESIVO-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/proteccion/bolsa-sencilla-burbuja-copia/"
+  },
+  {
+    "id": "laminas-polifoam",
+    "name": "LAMINAS POLIFOAM",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "proteccion",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/LAMINAS-DE-POLIFOAM-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/proteccion/laminas-polifoam/"
+  },
+  {
+    "id": "sobres-jiffy",
+    "name": "SOBRES JIFFY",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "proteccion",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/jiffy-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/proteccion/sobres-jiffy/"
+  },
+  {
+    "id": "biofill",
+    "name": "BIOFILL",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "proteccion",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/BIOFILL-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/proteccion/biofill/"
+  },
+  {
+    "id": "filltek",
+    "name": "FILLTEK",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "proteccion",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/FILLTEK-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/proteccion/filltek/"
+  },
+  {
+    "id": "linner",
+    "name": "LINNER",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "carton",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/LINNER-1.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/carton/linner/"
+  },
+  {
+    "id": "esquinero",
+    "name": "ESQUINERO",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "carton",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/ESQUINERO-1.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/carton/esquinero/"
+  },
+  {
+    "id": "papel-kraft",
+    "name": "PAPEL KRAFT",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "carton",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/KRAFT-ROLLO-1.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/carton/papel-kraft/"
+  },
+  {
+    "id": "carton-corrugado",
+    "name": "CARTÓN CORRUGADO",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "carton",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/CORRUGADO-ROLLO-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/carton/carton-corrugado/"
+  },
+  {
+    "id": "cajas-de-carton",
+    "name": "CAJAS DE CARTÓN",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "carton",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/CAJA-1.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/carton/cajas-de-carton/"
+  },
+  {
+    "id": "bolsa-fondo-estrella",
+    "name": "BOLSA FONDO ESTRELLA",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "polietileno",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2023/03/CAN-LINER-NEGRO.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/polietileno/bolsa-fondo-estrella/"
+  },
+  {
+    "id": "bolsa-de-camiseta",
+    "name": "BOLSA DE CAMISETA",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "polietileno",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/BOLSA-CAMISETA.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/polietileno/bolsa-de-camiseta/"
+  },
+  {
+    "id": "bolsa-plana-transparente",
+    "name": "BOLSA TRANSPARENTE",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "polietileno",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/CAN-LINER-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/polietileno/bolsa-plana-transparente/"
+  },
+  {
+    "id": "bolsa-plana-cristal",
+    "name": "BOLSA PLANA CRISTAL",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "polietileno",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/BOLSA-CRISTAL-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/polietileno/bolsa-plana-cristal/"
+  },
+  {
+    "id": "bolsa-plana-negra",
+    "name": "BOLSA PLANA NEGRA",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "polietileno",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/BOLSA-PLANA-NEGRA.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/polietileno/bolsa-plana-negra/"
+  },
+  {
+    "id": "bolsa-en-rollo",
+    "name": "BOLSA EN ROLLO",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "polietileno",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/BOLSA-REYMA.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/polietileno/bolsa-en-rollo/"
+  },
+  {
+    "id": "bolsa-con-zipper-2",
+    "name": "BOLSA CON ZIPPER",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "polietileno",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/1X1-TRANSP-1-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/polietileno/bolsa-con-zipper-2/"
+  },
+  {
+    "id": "tubular",
+    "name": "TUBULAR",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "polietileno",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/TUBULAR-TRANSP.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/polietileno/tubular/"
+  },
+  {
+    "id": "termoencogible-2",
+    "name": "TERMOENCOGIBLE",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "polietileno",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/TERMOENCOGIBLE-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/polietileno/termoencogible-2/"
+  },
+  {
+    "id": "fleje",
+    "name": "KIT DE FLEJADO",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "maquinaria",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/KIT-DE-FLEJADO-2-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/maquinaria/fleje/"
+  },
+  {
+    "id": "fleje-2",
+    "name": "FLEJE 1/2",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "maquinaria",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2023/01/FLEJE-EN-ARO-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/maquinaria/fleje-2/"
+  },
+  {
+    "id": "grapas-para-fleje",
+    "name": "GRAPAS PARA FLEJE",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "maquinaria",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/20221031_113417-600x600.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/maquinaria/grapas-para-fleje/"
+  },
+  {
+    "id": "pinza-selladora-para-fleje",
+    "name": "PINZA SELLADORA",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "maquinaria",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2023/01/PINZAS-3-1-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/maquinaria/pinza-selladora-para-fleje/"
+  },
+  {
+    "id": "tensionadora-manual",
+    "name": "TENSIONADORA MANUAL",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "maquinaria",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/TENSIONADOR-7-600x600.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/maquinaria/tensionadora-manual/"
+  },
+  {
+    "id": "flejadora-semiautomatica",
+    "name": "FLEJADORA",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "maquinaria",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2023/01/FLEJADORA-SEMIAUTOMATICA-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/maquinaria/flejadora-semiautomatica/"
+  },
+  {
+    "id": "selladoras",
+    "name": "SELLADORAS DE IMPULSO",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "maquinaria",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/SELLADORA.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/maquinaria/selladoras/"
+  },
+  {
+    "id": "selladora-s-economicas",
+    "name": "SELLADORAS ECONOMICAS",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "maquinaria",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2023/01/SELLADORA-ECONOMICA-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/maquinaria/selladora-s-economicas/"
+  },
+  {
+    "id": "encintadora-manual-2",
+    "name": "ENCINTADORA MANUAL",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "maquinaria",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/DESPACHADOR-2-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/maquinaria/encintadora-manual-2/"
+  },
+  {
+    "id": "etiquetador-ma5500",
+    "name": "ETIQUETADOR MA5500",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "maquinaria",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/ETIQUETADORA-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/maquinaria/etiquetador-ma5500/"
+  },
+  {
+    "id": "rafia-3",
+    "name": "RAFIA #3",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "maquinaria",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/RAFIA-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/maquinaria/rafia-3/"
+  },
+  {
+    "id": "sinchos",
+    "name": "SINCHOS",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "maquinaria",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/SINCHO-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/maquinaria/sinchos/"
+  },
+  {
+    "id": "exacto",
+    "name": "EXACTO",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "maquinaria",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/EXACTO-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/maquinaria/exacto/"
+  },
+  {
+    "id": "cutter",
+    "name": "CUTTER",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "maquinaria",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2022/12/cutter-600x600.jpg"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/industrial/maquinaria/cutter/"
+  },
+  {
+    "id": "bolsa-impresa",
+    "name": "BOLSA IMPRESA",
+    "description": "",
+    "category": "industrial",
+    "subcategory": "especialidades",
+    "images": [
+      "https://empaquestransformados.com/wp-content/uploads/2023/03/mock-up-vertical-logotipo-nuevo-600x576.png"
+    ],
+    "price": "",
+    "url": "https://empaquestransformados.com/tienda/alimenticio/especialidades/bolsa-impresa/"
+  }
+]
