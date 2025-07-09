@@ -2,15 +2,52 @@
 
 import Link from "next/link";
 import Image from "next/image";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { useCart } from "@/contexts/CartContext";
 import { ShoppingCart, Search, Menu, X, Phone } from "lucide-react";
+import allProducts from "@/data/all-products.json"; // Import product data
+import { Product } from "@/types/product"; // Assuming you have a Product type
 
 export function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const { getCartItemsCount, toggleCart } = useCart();
 
+  const [searchTerm, setSearchTerm] = useState("");
+  const [suggestions, setSuggestions] = useState<Product[]>([]);
+  const [isSuggestionsVisible, setIsSuggestionsVisible] = useState(false);
+
   const toggleMenu = () => setIsMenuOpen(!isMenuOpen);
+
+  useEffect(() => {
+    if (searchTerm.trim() === "") {
+      setSuggestions([]);
+      setIsSuggestionsVisible(false);
+      return;
+    }
+
+    const filteredProducts = allProducts.filter((product) =>
+      product.name.toLowerCase().includes(searchTerm.toLowerCase())
+    );
+    setSuggestions(filteredProducts as Product[]); // Cast to Product type
+    setIsSuggestionsVisible(filteredProducts.length > 0);
+  }, [searchTerm]);
+
+  const handleSearchChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    setSearchTerm(e.target.value);
+  };
+
+  const handleSuggestionClick = () => {
+    setSearchTerm("");
+    setIsSuggestionsVisible(false);
+  };
+
+  const handleSearchBlur = (e: React.FocusEvent<HTMLDivElement>) => {
+    // Hide suggestions if the new focused element is not part of the search suggestions
+    if (e.relatedTarget && e.currentTarget.contains(e.relatedTarget as Node)) {
+      return;
+    }
+    setIsSuggestionsVisible(false);
+  };
 
   return (
     <header className="w-full bg-white shadow-md">
@@ -48,16 +85,30 @@ export function Header() {
           </Link>
 
           {/* Search bar - Desktop */}
-          <div className="hidden md:flex flex-1 max-w-md mx-8">
+          <div className="hidden md:flex flex-1 max-w-md mx-8" onBlur={handleSearchBlur}>
             <div className="relative w-full">
               <input
                 type="text"
                 placeholder="BÚSQUEDA RÁPIDA DE PRODUCTOS...."
                 className="w-full px-4 py-2 border border-gray-300 rounded-l-md focus:outline-none focus:ring-2 focus:ring-orange-500"
+                value={searchTerm}
+                onChange={handleSearchChange}
+                onFocus={() => setIsSuggestionsVisible(searchTerm.length > 0 && suggestions.length > 0)}
               />
               <button className="absolute right-0 top-0 h-full px-4 bg-orange-500 text-white rounded-r-md hover:bg-orange-600 transition-colors">
                 <Search className="w-5 h-5" />
               </button>
+              {isSuggestionsVisible && suggestions.length > 0 && (
+                <ul className="absolute top-full left-0 right-0 bg-white border border-gray-300 rounded-b-md shadow-lg max-h-60 overflow-y-auto z-50">
+                  {suggestions.map((product) => (
+                    <li key={product.id} className="px-4 py-2 hover:bg-gray-100 cursor-pointer">
+                      <Link href={product.url} onClick={handleSuggestionClick} className="block w-full">
+                        {product.name}
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              )}
             </div>
           </div>
 
@@ -159,12 +210,26 @@ export function Header() {
         {/* Mobile Navigation */}
         {isMenuOpen && (
           <nav className="md:hidden mt-4 border-t pt-4">
-            <div className="mb-4">
+            <div className="mb-4 relative" onBlur={handleSearchBlur}> {/* Added relative for positioning context if needed by suggestions, and onBlur */}
               <input
                 type="text"
                 placeholder="BÚSQUEDA RÁPIDA DE PRODUCTOS...."
                 className="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-orange-500"
+                value={searchTerm}
+                onChange={handleSearchChange}
+                onFocus={() => setIsSuggestionsVisible(searchTerm.length > 0 && suggestions.length > 0)}
               />
+              {isSuggestionsVisible && suggestions.length > 0 && (
+                <ul className="bg-white border border-gray-300 rounded-b-md shadow-lg max-h-48 overflow-y-auto z-50 mt-1">
+                  {suggestions.map((product) => (
+                    <li key={product.id} className="px-4 py-2 hover:bg-gray-100 cursor-pointer">
+                      <Link href={product.url} onClick={() => { handleSuggestionClick(); toggleMenu(); }} className="block w-full">
+                        {product.name}
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              )}
             </div>
             <ul className="space-y-4">
               <li>

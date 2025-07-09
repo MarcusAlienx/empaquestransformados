@@ -1,19 +1,18 @@
 export interface Product {
   id: string;
   name: string;
-  description: string;
-  category: "alimenticio" | "industrial";
+  description: string; // Kept as is, all-products.json has it often empty
+  category: "alimenticio" | "industrial" | string; // Made more general for all-products
   subcategory: string;
   images: string[];
-  sizes: string[];
-  packages: string[];
-  price?: {
-    min: number;
-    max: number;
-  };
-  specifications?: string;
-  additionalInfo?: string;
-  sku?: string;
+  sizes?: string[]; // Made optional as not in all-products
+  packages?: string[]; // Made optional as not in all-products
+  price?: string | number | { min: number; max: number }; // Made flexible
+  specifications?: string; // Kept as optional
+  additionalInfo?: string; // Kept as optional
+  sku?: string; // Kept as optional
+  url: string; // Added from all-products
+  names_id?: number; // Added from products.json, optional
 }
 
 export interface CartItem {
