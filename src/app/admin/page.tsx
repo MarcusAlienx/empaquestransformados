@@ -58,7 +58,33 @@ export default function AdminPage() {
 
   function handleEdit(p: Product) {
     setEditing(p);
-    setForm({ ...p });
+    let priceForForm: { min?: number; max?: number } | undefined = undefined;
+    if (typeof p.price === 'object' && p.price !== null && ('min' in p.price || 'max' in p.price)) {
+      priceForForm = {
+        min: typeof p.price.min === 'number' ? p.price.min : undefined,
+        max: typeof p.price.max === 'number' ? p.price.max : undefined,
+      };
+    } else if (typeof p.price === 'string' || typeof p.price === 'number') {
+      const numericPrice = Number(p.price);
+      if (!isNaN(numericPrice)) {
+        priceForForm = { min: numericPrice, max: numericPrice };
+      }
+    }
+    // Ensure all form fields are initialized, even if undefined in product
+    setForm({
+      id: p.id || '',
+      name: p.name || '',
+      description: p.description || '',
+      category: p.category || '',
+      subcategory: p.subcategory || '',
+      images: p.images || [],
+      sizes: p.sizes || [],
+      packages: p.packages || [],
+      price: priceForForm,
+      specifications: p.specifications || '',
+      additionalInfo: p.additionalInfo || '',
+      url: p.url || '',
+    });
   }
 
   function handleDelete(id: string) {
