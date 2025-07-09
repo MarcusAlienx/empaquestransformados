@@ -44,6 +44,7 @@ export default function AdminPage() {
       price: form.price,
       specifications: form.specifications,
       additionalInfo: form.additionalInfo,
+      url: form.url || "", // Ensure URL is present
     };
     let updated: Product[];
     if (editing) {
@@ -110,6 +111,10 @@ export default function AdminPage() {
                 <label className="block text-sm font-medium">Subcategoría</label>
                 <input name="subcategory" required value={form.subcategory || ''} onChange={handleChange} className="w-full border p-2 rounded" />
               </div>
+            </div>
+            <div>
+              <label className="block text-sm font-medium">URL del Producto</label>
+              <input name="url" value={form.url || ''} onChange={handleChange} className="w-full border p-2 rounded" placeholder="Ej: /categoria/subcategoria/producto-id" />
             </div>
             <div>
               <label className="block text-sm font-medium">Imágenes (URLs, separadas por coma)</label>
