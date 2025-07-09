@@ -11,7 +11,7 @@ export interface Product {
   specifications?: string; // Kept as optional
   additionalInfo?: string; // Kept as optional
   sku?: string; // Kept as optional
-  url: string; // Added from all-products
+  url?: string; // Made optional to align with actual data in products.ts and admin page context
   names_id?: number; // Added from products.json, optional
 }
 

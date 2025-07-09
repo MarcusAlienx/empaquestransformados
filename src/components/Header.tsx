@@ -102,7 +102,7 @@ export function Header() {
                 <ul className="absolute top-full left-0 right-0 bg-white border border-gray-300 rounded-b-md shadow-lg max-h-60 overflow-y-auto z-50">
                   {suggestions.map((product) => (
                     <li key={product.id} className="px-4 py-2 hover:bg-gray-100 cursor-pointer">
-                      <Link href={product.url} onClick={handleSuggestionClick} className="block w-full">
+                      <Link href={product.url || "#"} onClick={handleSuggestionClick} className="block w-full">
                         {product.name}
                       </Link>
                     </li>
@@ -223,7 +223,7 @@ export function Header() {
                 <ul className="bg-white border border-gray-300 rounded-b-md shadow-lg max-h-48 overflow-y-auto z-50 mt-1">
                   {suggestions.map((product) => (
                     <li key={product.id} className="px-4 py-2 hover:bg-gray-100 cursor-pointer">
-                      <Link href={product.url} onClick={() => { handleSuggestionClick(); toggleMenu(); }} className="block w-full">
+                      <Link href={product.url || "#"} onClick={() => { handleSuggestionClick(); toggleMenu(); }} className="block w-full">
                         {product.name}
                       </Link>
                     </li>
